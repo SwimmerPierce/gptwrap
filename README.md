@@ -5,11 +5,21 @@ A modern web application that provides a user-friendly interface for interacting
 ## Features
 
 - 🎨 Modern UI with shadcn/ui components
-- 🌓 Dark/Light mode support
-- 💬 Real-time chat interface
+- 💬 Simple text input interface
 - 📱 Responsive design
 - 🔒 Secure API key management
 - 🎯 TypeScript for better development experience
+
+## Current Status
+
+The project is currently in active development. The following features are implemented:
+
+- ✅ Basic project setup with Vite and React
+- ✅ Modern UI components with shadcn/ui
+- ✅ Text input form with submit button
+- ⏳ GPT API integration (coming soon)
+- ⏳ Chat interface (coming soon)
+- ⏳ Dark/Light mode (coming soon)
 
 ## Tech Stack
 
@@ -66,6 +76,14 @@ gptwrap/
 ├── .gitignore            # Git ignore rules
 └── README.md            # Project documentation
 ```
+
+## Current Implementation
+
+The application currently features a simple text input form that:
+- Accepts user input through a text field
+- Provides a submit button for sending the input
+- Uses modern styling with Tailwind CSS
+- Is fully responsive and mobile-friendly
 
 ## Security
 
